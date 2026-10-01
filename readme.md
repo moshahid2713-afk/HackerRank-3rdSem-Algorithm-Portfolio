@@ -4,12 +4,12 @@
 
 | Detail                   | Information                                                          |
 | ------------------------ | -------------------------------------------------------------------- |
-| **Name**                 | Pranav Ethapay                                                       |
-| **USN / Student ID**     | R25EQ058                                                             |
+| **Name**                 | Mohammed Shahid                                                       |
+| **USN / Student ID**     | R25EF149                                                            |
 | **Semester**             | 3rd Semester                                                         |
 | **Programming Language** | Java                                                                 |
-| **HackerRank Profile**   | https://www.hackerrank.com/profile/pranavethapay201                  |
-| **GitHub Repository**    | https://github.com/pranave2007/HackerRank-3rdSem-Algorithm-Portfolio |
+| **HackerRank Profile**   | https://www.hackerrank.com/profile/moshahid2713                  |
+| **GitHub Repository**    | https://github.com/moshahid2713-afk/HackerRank-3rdSem-Algorithm-Portfolio |
 
 ---
 
